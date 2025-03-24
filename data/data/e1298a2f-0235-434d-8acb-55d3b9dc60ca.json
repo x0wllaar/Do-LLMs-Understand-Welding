@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Crack in the middle. Didn't finish the weld. Inadequate joint fit-up, inadequate filler. Rod stuck in the weld. Called Lay-rodding in TIG. It's a fixable crack, but as is it would fail.",
+    "NarrativeAeronautical": "Crack in the middle. Didn't finish the weld. Inadequate joint fit-up, inadequate filler. Rod stuck in the weld. Called Lay-rodding in TIG. It's a fixable crack, but as is it would fail.",
+    "NarrativeFarming": "Crack in the middle. Didn't finish the weld. Inadequate joint fit-up, inadequate filler. Rod stuck in the weld. Called Lay-rodding in TIG. It's a fixable crack, but as is it would fail.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "e1298a2f-0235-434d-8acb-55d3b9dc60ca",
+    "row": 37
+}

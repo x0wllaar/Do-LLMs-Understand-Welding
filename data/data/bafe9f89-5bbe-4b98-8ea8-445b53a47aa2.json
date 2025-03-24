@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking TIG weld.  Needs to be wire wheeled a bit, but it would pass.",
+    "NarrativeAeronautical": "Good looking TIG weld.  Needs to be wire wheeled a bit, but it would pass.",
+    "NarrativeFarming": "Good looking TIG weld.  Needs to be wire wheeled a bit, but it would pass.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "bafe9f89-5bbe-4b98-8ea8-445b53a47aa2",
+    "row": 46
+}

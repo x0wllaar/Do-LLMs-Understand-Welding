@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "This weld has cracks in it. You can see three cracks on the left side and there is undercut on the right side.",
+    "NarrativeAeronautical": "This is not a very good weld. It has cracks in it, lack of fusion, undercut, it's a mess.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "949696c8-186a-44fb-aad5-93d4456488b7",
+    "row": 81
+}

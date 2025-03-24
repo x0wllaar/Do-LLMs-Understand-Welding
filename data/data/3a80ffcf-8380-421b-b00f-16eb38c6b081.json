@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "This weld has good technique, good fusion. The top bead looks slightly undercut due to execssive heat which you can tell from splatter. The bottom bead on the top portion looks like it is a little bit overlapping, but that's acceptable because it's just a reinforcement bead.\nBottom one is a bad that is 2/3 of the way finished. You want the bead ot overlap on that, it has good fusion, looks like they overlapped it good.",
+    "NarrativeAeronautical": "MIG weld wouldn't work for aeronautical. It doesn't look like they cleaned the metal before they welded it.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "3a80ffcf-8380-421b-b00f-16eb38c6b081",
+    "row": 62
+}

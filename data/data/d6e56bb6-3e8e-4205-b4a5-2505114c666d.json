@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like proper angle, complete weld, proper penetration. No defects. ",
+    "NarrativeAeronautical": "Looks like proper angle, complete weld, proper penetration. No defects. Pass visual for aeronautical.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "d6e56bb6-3e8e-4205-b4a5-2505114c666d",
+    "row": 90
+}

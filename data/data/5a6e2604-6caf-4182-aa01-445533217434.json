@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like proper filler, proper temperature, good weld angle. Should bevel it, but it depends on the specification sheet if this would be necessary or not.",
+    "NarrativeAeronautical": "MIG weld",
+    "NarrativeFarming": "Looks like proper filler, proper temperature, good weld angle.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "5a6e2604-6caf-4182-aa01-445533217434",
+    "row": 6
+}

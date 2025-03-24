@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good straight beads, looks like proper amount of filler. Looks like there is good penetration, although there is an inclusion. There's a discontinuity on the bottom one a quarter of the way over from the right to the left. Looks like he stuck his tunsten in the puddle.",
+    "NarrativeAeronautical": "Good straight beads, looks like proper amount of filler. Looks like there is good penetration, although there is an inclusion. There's a discontinuity on the bottom one a quarter of the way over from the right to the left. Looks like he stuck his tunsten in the puddle.\n\nFor aeronautical it will fail with tunsten in there.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "da973e8b-e819-47f8-a8e8-1329d6a92d99",
+    "row": 75
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like it's got start and stop in the middle. There is adequate filler, but it's not a pretty weld. In the very middle, it looks like it could have had a stop and start",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "Looks like a stop and start, or it could be the angle of the torch, but this would be acceptable for farming.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "cbcedbdb-9275-43b5-90fb-e9700b39f01b",
+    "row": 30
+}

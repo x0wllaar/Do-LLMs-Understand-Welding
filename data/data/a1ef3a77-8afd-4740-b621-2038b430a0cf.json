@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper penetration, proper filler, proper weld angle. Gets a little narrow in the middle, but won't affect the weld. Hard to tell type of metal, could be MIG aluminum.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Proper penetration, proper filler, proper weld angle. Gets a little narrow in the middle, but won't affect the weld.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "a1ef3a77-8afd-4740-b621-2038b430a0cf",
+    "row": 53
+}

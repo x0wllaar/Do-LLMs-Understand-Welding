@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Stick welding.  Hard to tell if there are surface marks. Porosity hole on the right hand side. Inadequate penetration. ",
+    "NarrativeAeronautical": "Stick weld.",
+    "NarrativeFarming": "Stick welding.  Hard to tell if there are surface marks. Porosity hole on the right hand side. Inadequate penetration. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "88aa7838-9f1e-4915-94c1-a2a0df255fb9",
+    "row": 42
+}

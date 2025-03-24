@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Adequate penetration. Proper filler. Looks like there's a whisker underneath from a MIG wire. would need to break it off and grind it down. Crack at the end of the weld. ",
+    "NarrativeAeronautical": "Crack at end of weld",
+    "NarrativeFarming": "Hard to tell if it's a rusty weld or corrosion on a rusty surface. Looks like there's a whisker underneath from a MIG wire. would need to break it off and grind it down. Crack at the end of the weld. ",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "569e782d-f9ec-4af9-9ebd-7981928f5648",
+    "row": 30
+}

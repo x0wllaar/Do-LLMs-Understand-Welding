@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good TIG weld. Proper angle, proper filler.",
+    "NarrativeAeronautical": "Good TIG weld. Proper angle, proper filler.",
+    "NarrativeFarming": "Good TIG weld. Proper angle, proper filler.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "04a101c2-e4d0-4b3b-a16e-e95d213776b5",
+    "row": 45
+}

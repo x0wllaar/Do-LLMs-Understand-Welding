@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Stainless steel TIG. No visual defects. Could be a little bit lack of filler, could have gone too hot on the left side weld. Depending on how thick wall of metal is, it's probably ok.",
+    "NarrativeAeronautical": "Stainless steel TIG. No visual defects. Could be a little bit lack of filler, could have gone too hot on the left side weld. Depending on how thick wall of metal is, it's probably ok.",
+    "NarrativeFarming": "Stainless steel TIG. No visual defects. Could be a little bit lack of filler, could have gone too hot on the left side weld. Depending on how thick wall of metal is, it's probably ok.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "1234bbc7-ad44-4077-bdaa-6b03f1da2ee5",
+    "row": 66
+}

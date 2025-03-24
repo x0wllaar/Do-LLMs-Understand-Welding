@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cluster of porosity. Inadequate joint penetration. Dirty weld, highly contaminated. Improper cleaning. Improper joint fit-up.",
+    "NarrativeAeronautical": "Cluster of porosity. Inadequate joint penetration. Dirty weld, highly contaminated. Improper cleaning. Improper joint fit-up.",
+    "NarrativeFarming": "Cluster of porosity. Inadequate joint penetration. Dirty weld, highly contaminated. Improper cleaning. Improper joint fit-up.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "8aec8e88-4f1e-4482-a092-3d61f0ab5190",
+    "row": 16
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Rounded corners good, good penetration. Looks like proper penetration, good weld angle, proper speed, proper technique.",
+    "NarrativeAeronautical": "GMAW/ MIG Weld - spatter",
+    "NarrativeFarming": "Rounded corners good, good penetration.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "84a2fcc1-5206-43ce-ba93-f0e6189018eb",
+    "row": 8
+}

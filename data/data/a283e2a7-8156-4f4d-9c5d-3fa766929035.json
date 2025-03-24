@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Incomplete weld - you can see on the left there are stop and starts. The whole last third on the left is a mess. Looks like they had the wrong angle going and were changing their angle as they were welding. It's contaminated - it has oil in it. Brown black tint shows carbon build-up",
+    "NarrativeAeronautical": "Incomplete weld - you can see on the left there are stop and starts. The whole last third on the left is a mess. Looks like they had the wrong angle going and were changing their angle as they were welding. It's contaminated - it has oil in it. Brown black tint shows carbon build-up.\n\nThey wouldn't even test this one - would fail visual inspection because of start and stop and visible contamination.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "a283e2a7-8156-4f4d-9c5d-3fa766929035",
+    "row": 93
+}

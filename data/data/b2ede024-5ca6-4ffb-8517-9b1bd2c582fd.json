@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Overfilled, too much wire. Causes the mother metal to become weak on the edges. looks like inadequate penetration. ",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Farming would use this. A weld like this could be used to fill up an area where something was worn down.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "b2ede024-5ca6-4ffb-8517-9b1bd2c582fd",
+    "row": 50
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate penetration, inconsistent weld bead. It looks pretty cold because the bead is rounded. The sides are not melted in for fusion -- there's a lack of fusion. It should be flatter.",
+    "NarrativeAeronautical": "MIG welding - wouldn't accept it",
+    "NarrativeFarming": "Too cold, it would probably break.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fad9f76f-af29-46ea-9aad-aba08214fdb3",
+    "row": 55
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Underfill, undercut on the edges. but they could put another layer on top.",
+    "NarrativeAeronautical": "Underfill. Undercut on the edges.",
+    "NarrativeFarming": "Underfill, undercut on the edges, but you could put another layer on top.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "d85d9db1-a0a8-4001-a88c-a56fb3db70c4",
+    "row": 18
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "GTAW TIG welding. Walking a cup. Looks good. no flaws, no discontinuities of any kind. No defects.",
+    "NarrativeAeronautical": "Don't do walking a cup in aviation.",
+    "NarrativeFarming": "GTAW TIG welding. Walking a cup. Looks good. no flaws, no discontinuities of any kind. No defects.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "8814a8e9-2e77-4c72-8325-0cad8e2f2de2",
+    "row": 44
+}

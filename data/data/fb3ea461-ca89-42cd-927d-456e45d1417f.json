@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Roll over  on the edges. Inadequate penetration. Probably has an improper weld angle. Probably a horizontal weld that we're looking at the bottom of.",
+    "NarrativeAeronautical": "Roll over  on the edges. Inadequate penetration. Probably has an improper weld angle. Probably a horizontal weld that we're looking at the bottom of.",
+    "NarrativeFarming": "Could be used for non-mechanical on a farm, like a gate or a silo.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "fb3ea461-ca89-42cd-927d-456e45d1417f",
+    "row": 21
+}

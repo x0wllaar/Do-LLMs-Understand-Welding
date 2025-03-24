@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "MIG weld, GMAW. Spatter. No porosity holes. Improper weld angle, but there is enough there to make it pass.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "MIG weld, GMAW. Spatter. No porosity holes. Improper weld angle, but there is enough there to make it pass.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "18ef9248-26aa-4b6c-9c7e-6ce5e6fc87e8",
+    "row": 41
+}

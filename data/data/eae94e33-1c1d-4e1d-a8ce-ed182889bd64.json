@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cube, no visual defects. TIG aluminum.",
+    "NarrativeAeronautical": "Cube, no visual defects. TIG aluminum.",
+    "NarrativeFarming": "Cube, no visual defects. TIG aluminum.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "eae94e33-1c1d-4e1d-a8ce-ed182889bd64",
+    "row": 67
+}

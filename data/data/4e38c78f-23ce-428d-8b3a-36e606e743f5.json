@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Incomplete weld. Lack of filler, lack of fusion and it's cold. Looks contaminated, didn't clean it very good. It's got what looks like an inclusion where the arrow is.",
+    "NarrativeAeronautical": "It looks like it's dirty and they don't do pipe in aeronautical.",
+    "NarrativeFarming": "It's just not completed, isn't finished.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "4e38c78f-23ce-428d-8b3a-36e606e743f5",
+    "row": 35
+}

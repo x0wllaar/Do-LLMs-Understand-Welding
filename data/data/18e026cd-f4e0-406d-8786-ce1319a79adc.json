@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Undercut, improper welding angle.",
+    "NarrativeAeronautical": "Undercut, improper welding angle.",
+    "NarrativeFarming": "Undercut, improper welding angle.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "18e026cd-f4e0-406d-8786-ce1319a79adc",
+    "row": 17
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Fisheye at the end. Big surface crack at the bottom. Inadequate penetration. Lack of fusion on the bottom. Looks like a fusion test weld on aluminum and they cracked the plate. Excessive heat. Looks like a setup plate for the machine.",
+    "NarrativeAeronautical": "Fisheye at the end. Big surface crack at the bottom. Inadequate penetration. Lack of fusion on the bottom. Looks like a fusion test weld on aluminum and they cracked the plate. Excessive heat. Looks like a setup plate for the machine.",
+    "NarrativeFarming": "Fisheye at the end. Big surface crack at the bottom. Inadequate penetration. Lack of fusion on the bottom. Looks like a fusion test weld on aluminum and they cracked the plate. Excessive heat. Looks like a setup plate for the machine.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "f4adffa7-37cf-4af0-9d54-409fd78e6c96",
+    "row": 25
+}

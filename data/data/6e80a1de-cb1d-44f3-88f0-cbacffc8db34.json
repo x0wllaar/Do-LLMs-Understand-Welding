@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Lack of fusion, inadequate penetration. Porosity on the left side. Improper cleaning. Looks like a start and stop in the middle. Crack in the middle of the weld. Stop and start resulted in a fish eye and cracked across the hole",
+    "NarrativeAeronautical": "Lack of fusion, inadequate penetration. Porosity on the left side. Improper cleaning. Looks like a start and stop in the middle. Crack in the middle of the weld. Stop and start resulted in a fish eye and cracked across the hole",
+    "NarrativeFarming": "Couldn't go to farming because of the crack defect. It's not structurally sound.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "6e80a1de-cb1d-44f3-88f0-cbacffc8db34",
+    "row": 16
+}

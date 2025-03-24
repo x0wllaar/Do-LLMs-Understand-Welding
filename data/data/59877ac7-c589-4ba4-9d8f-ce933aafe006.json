@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate penetration, overlap. Looks like apparent inclusions on the bottom edge. Incomplete fusion.",
+    "NarrativeAeronautical": " MIG welding, wouldn't consider this one. ",
+    "NarrativeFarming": "Inadequate penetration, overlap. Looks like apparent inclusions on the bottom edge. Incomplete fusion. Wouldn't hold a structure at all.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "59877ac7-c589-4ba4-9d8f-ce933aafe006",
+    "row": 56
+}

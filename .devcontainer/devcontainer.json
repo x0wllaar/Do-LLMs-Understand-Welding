@@ -1,0 +1,21 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "."
+    },
+    
+    "customizations": {
+        "vscode": {
+          "extensions": ["donjayamanne.python-extension-pack", "ms-toolsai.jupyter", "yzhang.markdown-all-in-one"]
+        }
+    }
+
+    //selinux support here
+    //"remoteUser": "root",
+    //"containerUser": "root",
+    //"workspaceMount": "",
+    //"runArgs": [
+    //  "--volume=${localWorkspaceFolder}:/workspaces/${localWorkspaceFolderBasename}:rw,Z",
+    //  "--pod=colombiap"
+    //]
+}

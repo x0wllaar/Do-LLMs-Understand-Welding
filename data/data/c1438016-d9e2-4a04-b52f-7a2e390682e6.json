@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good filler, good fusion. It does have fisheye at the end, but that can be fixed. Looks like adequate penetration. Looks clean.",
+    "NarrativeAeronautical": "They would have to fix the fisheye to send to aeronautical. Good filler, good fusion looks clean.",
+    "NarrativeFarming": "Good filler, good fusion. It does have fisheye at the end, but that can be fixed. Looks like adequate penetration. Looks clean.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "c1438016-d9e2-4a04-b52f-7a2e390682e6",
+    "row": 24
+}

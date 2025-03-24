@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking weld. Proper fusion, proper filler, proper technique. Looks like a TIG weld.",
+    "NarrativeAeronautical": "Good looking weld. Proper fusion, proper filler, proper technique. Looks like a TIG weld.",
+    "NarrativeFarming": "Good looking weld. Proper fusion, proper filler, proper technique. Looks like a TIG weld.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "82e7d10d-daff-4bd6-8def-f374bbe02079",
+    "row": 65
+}

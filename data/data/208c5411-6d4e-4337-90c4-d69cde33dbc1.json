@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Aluminum TIG weld.  No defects. Looks like proper weld angle, proper filler, proper temperature",
+    "NarrativeAeronautical": "Aluminum TIG weld.  No defects. Looks like proper weld angle, proper filler, proper temperature",
+    "NarrativeFarming": "Aluminum TIG weld.  No defects. Looks like proper weld angle, proper filler, proper temperature",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "208c5411-6d4e-4337-90c4-d69cde33dbc1",
+    "row": 47
+}

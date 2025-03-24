@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Laminations. Bottom of the left side has a delamination. There are laminations in the middle that will split with a force acting on them. When the metal is made, there is some kind of contamination in there. Caused by the weld being at the wrong angle relative to the grain, which causes the grain of the metal to separate.",
+    "NarrativeAeronautical": "Laminations. Bottom of the left side has a delamination. There are laminations in the middle that will split with a force acting on them. When the metal is made, there is some kind of contamination in there.",
+    "NarrativeFarming": "Laminations. Bottom of the left side has a delamination. There are laminations in the middle that will split with a force acting on them. When the metal is made, there is some kind of contamination in there.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "9a66d5f2-5696-49bb-9db4-840c6741ca35",
+    "row": 15
+}

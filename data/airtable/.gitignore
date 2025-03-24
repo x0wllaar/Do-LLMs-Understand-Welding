@@ -1,0 +1,3 @@
+#Ignore everything here as Airtable links expire after a while
+*
+!.gitignore

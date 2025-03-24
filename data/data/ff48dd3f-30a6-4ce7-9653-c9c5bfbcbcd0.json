@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It could have a lack of fusion. There is a crater on the left side at the end of the weld. Fish-eye - small crater where the end of the arc discontinued and a spiderweb crack branches out from the center. It could be ground out and then it would be a good weld. ",
+    "NarrativeAeronautical": "GMAW - not acceptable for Aeronautical",
+    "NarrativeFarming": "This could be used for farming - the fisheye at the end wouldn't be a big deal.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "ff48dd3f-30a6-4ce7-9653-c9c5bfbcbcd0",
+    "row": 49
+}

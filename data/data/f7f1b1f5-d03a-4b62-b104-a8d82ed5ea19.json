@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking welds. Proper filler, proper technique. No fisheyes, no visual defects.",
+    "NarrativeAeronautical": "Good looking welds. Proper filler, proper technique. No fisheyes, no visual defects.",
+    "NarrativeFarming": "Good looking welds. Proper filler, proper technique. No fisheyes, no visual defects.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "f7f1b1f5-d03a-4b62-b104-a8d82ed5ea19",
+    "row": 63
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Arc strikes. Porosity. ",
+    "NarrativeAeronautical": "Arc strikes. Porosity. ",
+    "NarrativeFarming": "Arc strikes. Porosity. ",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "817804a2-ca4a-4dd4-9d93-a9371df43f9e",
+    "row": 27
+}

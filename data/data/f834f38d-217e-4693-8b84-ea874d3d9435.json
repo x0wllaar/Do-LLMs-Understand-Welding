@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Too much weld on it, they had the wrong wire speed going. It looks like the wrong temperature also, lack of fusion. Middle on has overlap -- bottom edge is rolled up, it didn't penetrate down in there.\nThe top one's bottom edge has a line that sinks into it, but on the middle it rolls up and has an overlap\nAngle has changed on the bottom one and the bottom one has discontinuities. The dot is an inclusion -- there is something in it, probably a little bit of slag or contamination.",
+    "NarrativeAeronautical": "Not even in the ballpark\nToo much weld on it, they had the wrong wire speed going. It looks like the wrong temperature also, lack of fusion. Middle on has overlap -- bottom edge is rolled up, it didn't penetrate down in there.\nThe top one's bottom edge has a line that sinks into it, but on the middle it rolls up and has an overlap\nAngle has changed on the bottom one and the bottom one has discontinuities. The dot is an inclusion -- there is something in it, probably a little bit of slag or contamination.\n\nWould definitely fail all tests - would fall visual test. Can see that there are inclusions and discontinuities. The welds are full of defects with inclusions, overlap, too much rod, overlap, can tell it wasn't the right temperature.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "f834f38d-217e-4693-8b84-ea874d3d9435",
+    "row": 99
+}

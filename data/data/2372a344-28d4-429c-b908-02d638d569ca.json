@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good straight bead, enough fusion in it. A little light on filler - it should have a little bit more filler in it.",
+    "NarrativeAeronautical": "There is a lack of filler, and looks like there is a hole right in the middle of the bead. Pinhole could be a result of porosity.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "2372a344-28d4-429c-b908-02d638d569ca",
+    "row": 79
+}

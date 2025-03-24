@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate penetration, inadequate fusion, lack of filler in areas. It's just an incomplete weld, they went way too fast and it's cold. You can see overlap in some areas.",
+    "NarrativeAeronautical": "Laugh it out of the room",
+    "NarrativeFarming": "Inadequate penetration, inadequate fusion, lack of filler in areas. It's just an incomplete weld, they went way too fast and it's cold. You can see overlap in some areas.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "8a3e500d-ee13-4a0c-a977-9bb8dce80a8c",
+    "row": 44
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It's a little bit hot and over penetrated. Undercut on the top edge. Need to slow down and turn the heat down.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Don't see any sever defects, just cosmetic except for undercut. Could put another bead over the top to cover it up and make it stronger.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "b5067165-ee8c-48b5-8e51-d96f86cc19b4",
+    "row": 11
+}

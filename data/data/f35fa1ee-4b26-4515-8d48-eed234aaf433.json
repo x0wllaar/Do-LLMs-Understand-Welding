@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Excessive spatter. Looks a little hot. Welder needs to slow down, they went too fast, too hot. But it would still pass. It looks a little bit like a robotic weld because it's so fast, but a robot would be more consistent than the waviness on this weld. There is a discontinuity on the right hand side in the middle. Could be an inclusion",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "This could be used to build up a pad area or something like that. It would be alright. There is a discontinuity on the right hand side in the middle. Could be an inclusion",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "f35fa1ee-4b26-4515-8d48-eed234aaf433",
+    "row": 51
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Incomplete weld in the first part on the left, overlapping with lack of fusion",
+    "NarrativeAeronautical": "Incomplete weld in the first part on the left, overlapping with lack of fusion",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "80c39e03-6851-42b8-87fc-2d0530938d47",
+    "row": 104
+}

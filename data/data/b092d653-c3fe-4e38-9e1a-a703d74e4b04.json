@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cold. Lack of fusion. Inconsistent temperatures. It has high spots and low spots. Excessive filler in areas. Looks contaminated - dirty welds.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "This would be wire wheeled and painted, so the weld filler can be inconsistent and it's not a problem. Don't see any porosity.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "b092d653-c3fe-4e38-9e1a-a703d74e4b04",
+    "row": 23
+}

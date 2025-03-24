@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "This weld has some porosity. The top bead has porosity in the middle. There are three holes. Incomplete fusion and undercut in the middle weld on the top edge. Bottom weld has improper technique, skinny then fat, then skinny, then fat resulting from raising it up and down as they weld.",
+    "NarrativeAeronautical": "This weld has some porosity. The top bead has porosity in the middle. There are three holes. Incomplete fusion and undercut in the middle weld on the top edge. Bottom weld has improper technique, skinny then fat, then skinny, then fat resulting from raising it up and down as they weld. MIG, not acceptable for aeronautical.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "375ad611-22c8-4392-9d93-973c25d0c72e",
+    "row": 66
+}

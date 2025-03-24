@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Arc strike. Looks like it burned through in the middle. Too much heat. Melt-through.",
+    "NarrativeAeronautical": "Arc strike. Looks like it burned through in the middle. Too much heat. Melt-through.",
+    "NarrativeFarming": "Arc strike. Looks like it burned through in the middle. Too much heat. Melt-through.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "b6440a0c-8fa9-487b-b896-4f2fe05eab08",
+    "row": 3
+}

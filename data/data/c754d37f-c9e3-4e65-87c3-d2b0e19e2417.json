@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good straight bead, looks like good fusion. Lack of defects, don't see anything wrong with it. Looks like proper angle. ",
+    "NarrativeAeronautical": "MIG weld not suitable for aeronautical. Wasn't cleaned, so it probably has inclusions in it.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "c754d37f-c9e3-4e65-87c3-d2b0e19e2417",
+    "row": 70
+}

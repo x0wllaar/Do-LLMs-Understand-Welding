@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate fusion, inadequate penetration, lack of filler, lack of consistency. There is a hole from lack of fusion.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "Not enough filler. Inadequate fusion, inadequate penetration, lack of filler, lack of consistency. There is a hole from lack of fusion.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fb49ba21-7cdb-464a-b4d1-96153ff1b522",
+    "row": 46
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper weld angle, proper penetration, lack of defects. No overlap sticking up. They're obviously welding hot enough because you can tell it penetrated into the mother metal.",
+    "NarrativeAeronautical": "Proper weld angle, proper penetration, lack of defects. No overlap sticking up. They're obviously welding hot enough because you can tell it penetrated into the mother metal. Doesn't show any defects, but hard to tell without looking down the bead to see if there are high and low spots. Looking straight on at it it looks pretty good.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "c8ee47e9-970a-4203-925b-3df99febad83",
+    "row": 101
+}

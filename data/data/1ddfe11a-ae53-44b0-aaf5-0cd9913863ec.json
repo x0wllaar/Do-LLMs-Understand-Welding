@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Making beads for steel. The middle bead looks ok, the one in the back one would not be\nOne in the back - lack of penetration on the left side, incomplete weld in the very center\nMiddle weld is pretty good, acceptable for RV industry\nFront one - has an excess amount of bead on it, but it looks like it still penetrated, so it would be strong\nWeld doesn't have to be pretty to be acceptable",
+    "NarrativeAeronautical": "Not even close to acceptable for aeronautical. Inadequate joint penetration, incomplete fusion, those are the two main ones.\nIt looks in the back row like there are some inclusions (contaminations) when they were welding it, looks like they didn't have the plate very clean.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "1ddfe11a-ae53-44b0-aaf5-0cd9913863ec",
+    "row": 106
+}

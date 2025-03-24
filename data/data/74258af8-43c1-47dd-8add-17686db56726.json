@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like it's got proper penetration and proper fill, but it has some discontinuities in it. It doesn't look defective.",
+    "NarrativeAeronautical": "Not consistent. Looks like the two black marks. Middle on indicates a stop and start with possible contamination or inclusion. ",
+    "NarrativeFarming": "Looks like it's got proper penetration and proper fill, but it has some discontinuities in it. It doesn't look defective.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "74258af8-43c1-47dd-8add-17686db56726",
+    "row": 57
+}

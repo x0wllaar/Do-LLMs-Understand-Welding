@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Arc strikes. Even if you grind it out, it changes the molecular structure of the metal, putting a hot spot on it.",
+    "NarrativeAeronautical": "Arc strikes. Even if you grind it out, it changes the molecular structure of the metal, putting a hot spot on it.",
+    "NarrativeFarming": "Arc strikes. Even if you grind it out, it changes the molecular structure of the metal, putting a hot spot on it.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "053accef-2d37-4974-9dc1-293d56d75573",
+    "row": 39
+}

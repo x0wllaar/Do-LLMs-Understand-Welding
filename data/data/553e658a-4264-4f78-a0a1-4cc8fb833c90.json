@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper fusion, proper penetration, consistent weld bead. Looks clean, neat. ",
+    "NarrativeAeronautical": "Proper fusion, proper penetration, consistent weld bead. Looks clean, neat. ",
+    "NarrativeFarming": "Proper fusion, proper penetration, consistent weld bead. Looks clean, neat. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "553e658a-4264-4f78-a0a1-4cc8fb833c90",
+    "row": 26
+}

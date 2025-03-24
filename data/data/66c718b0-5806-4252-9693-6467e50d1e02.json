@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Crack in the weld. Porosity hole. Porosity hole would be acceptable, but not the crack.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Crack in the weld. Porosity hole. Porosity hole would be acceptable, but not the crack.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "66c718b0-5806-4252-9693-6467e50d1e02",
+    "row": 58
+}

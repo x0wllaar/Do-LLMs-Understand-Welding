@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking bead, it would pass RV and marine. Proper amount of filler and proper temperature. Also has proper angle.",
+    "NarrativeAeronautical": "MIG weld, wouldn't pass for aeronautical. Not cleaned properly for aeronautical welding. They didn't wire brush it. ",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "32f16b43-0a27-4354-9da1-4a64ca8044ca",
+    "row": 83
+}

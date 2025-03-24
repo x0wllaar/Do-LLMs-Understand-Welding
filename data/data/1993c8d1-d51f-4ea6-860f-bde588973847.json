@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks contaminated. Looks like they welded it way too hot while contaminated. Looks like the mill scale is extremely heavy on it. Didn't clean it very good. You cant start out a weld with two dirty pieces of metal.",
+    "NarrativeAeronautical": "Looks like a TIG weld, but too contaminated.",
+    "NarrativeFarming": "Too much contamination, excessive heat would make it brittle and it would crack.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "1993c8d1-d51f-4ea6-860f-bde588973847",
+    "row": 19
+}

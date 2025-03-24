@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Discontinuity isn't great enough to cause a bad enough defect to make this disqualifying for RV/Marine.",
+    "NarrativeAeronautical": "Crater crack makes it unacceptable. If it starts cracking, it would spiderweb from here.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "794eaac7-e7f3-4692-8e4d-699c974cd5ab",
+    "row": 7
+}

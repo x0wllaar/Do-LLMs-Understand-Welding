@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Slag inclusions, contaminated weld. Looks like porosity in the middle with slag inclusions. Inadequate penetration. cold weld",
+    "NarrativeAeronautical": "Slag inclusions, contaminated weld. Looks like porosity in the middle with slag inclusions. Inadequate penetration.  cold weld",
+    "NarrativeFarming": "Slag inclusions, contaminated weld. Looks like porosity in the middle with slag inclusions. Inadequate penetration.  cold weld",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "40d23af2-07ad-4e14-80c8-b9b89eb1ca2b",
+    "row": 14
+}

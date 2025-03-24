@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "GTAW TIG - stainless steel pipe. Craters are filled in at the end. Proper weld technique. No undercut.",
+    "NarrativeAeronautical": "GTAW TIG - stainless steel pipe. Craters are filled in at the end. Proper weld technique. No undercut.",
+    "NarrativeFarming": "GTAW TIG - stainless steel pipe. Craters are filled in at the end. Proper weld technique. No undercut.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "cdd7b4fd-c8f5-4d4d-855f-a83d65533e3b",
+    "row": 71
+}

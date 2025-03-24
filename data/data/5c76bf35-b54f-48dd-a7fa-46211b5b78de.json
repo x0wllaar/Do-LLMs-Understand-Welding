@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good penetration, good filler. Looks like a consistent bead. There is a crack where it fuses together in the corner, so it would fail because of that it would fail. It could have cracked like that when it was cooling.",
+    "NarrativeAeronautical": "This MIG so it wouldn't be acceptable for aviation. The crack in the corner would make it fail. And they have a start and stop on the left side that isn't fused together very good. Started right at the end instead of backing it up and then starting welding again instead of welding right at the end.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "5c76bf35-b54f-48dd-a7fa-46211b5b78de",
+    "row": 60
+}

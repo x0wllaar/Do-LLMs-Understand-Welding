@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good straight bead, looks like the discontinuities are within reason and defects are few. Right at the end of the weld, the middle bead at the bottom is a defect, but it's an allowable defect that can be filled in with filler rod.",
+    "NarrativeAeronautical": "This would fail because of a crater at the end of the middle weld and all three have craters at the end of it. All the spatter because it's MIG welded would also fail for aeronautical. ",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "84000421-9d2a-44f1-a432-cce7574338a0",
+    "row": 91
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Straight, enough filler. There is some undercutting at the top, but it would still be accetable for RV, but it would fail if it was any worse. Acceptable amount of heat. It's just beginning the undercut stages.",
+    "NarrativeAeronautical": "GMAW, and any undercut on the bead is not allowed. Did not clean the metal.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "f0a6d0d9-ade4-45b8-ae5f-111847c75ef5",
+    "row": 71
+}

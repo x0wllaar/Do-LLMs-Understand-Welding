@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cluster of porosity. Inadequate joint penetration on the left side. ",
+    "NarrativeAeronautical": "Cluster of porosity. Inadequate joint penetration on the left side. ",
+    "NarrativeFarming": "Cluster of porosity. Inadequate joint penetration on the left side. ",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "db3e29fc-e6e0-4d99-a719-6467715566ae",
+    "row": 35
+}

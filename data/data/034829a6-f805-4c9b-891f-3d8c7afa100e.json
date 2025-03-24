@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like a steel MIG weld. Porosity. Good fusion. It was contaminated, no evidence of cleaning on either side of the weld joint.  Excessive heat.",
+    "NarrativeAeronautical": "MIG Weld",
+    "NarrativeFarming": "Looks like a steel MIG weld. Porosity. Good fusion. It was contaminated, no evidence of cleaning on either side of the weld joint.  Excessive heat.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "034829a6-f805-4c9b-891f-3d8c7afa100e",
+    "row": 26
+}

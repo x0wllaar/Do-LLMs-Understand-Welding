@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate fusion, cold weld. Looks like slag inclusions at the bottom edge. Stop and start in the middle. Fisheye at both ends that needs to be filled in. First part looks like they started getting hot, then there are slag inclusions at the bottom edge -- going too fast. Too fast of a weld speed.",
+    "NarrativeAeronautical": "Inadequate fusion, cold weld. Looks like slag inclusions at the bottom edge. Stop and start in the middle. Fisheye at both ends that needs to be filled in. First part looks like they started getting hot, then there are slag inclusions at the bottom edge -- going too fast. Too fast of a weld speed.",
+    "NarrativeFarming": "Inadequate fusion, cold weld. Looks like slag inclusions at the bottom edge. Stop and start in the middle. Fisheye at both ends that needs to be filled in. First part looks like they started getting hot, then there are slag inclusions at the bottom edge -- going too fast. Too fast of a weld speed.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "e0451aaf-cc82-42b7-95db-83d35b4f9e53",
+    "row": 13
+}

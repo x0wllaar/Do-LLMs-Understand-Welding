@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking plate. Don't see any defects, a little hot but it looks like it still has good penetration, don't see any undercut, don't see any porosity or any kind of inclusions or discontinuities. Seems to be within tolerance.",
+    "NarrativeAeronautical": "Too much spatter, and this is MIG, not TIG, this is a GMAW weld, which they wouldn't do in aeronautical.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "977ca6c8-0c14-4f13-884c-7e2de4568ed7",
+    "row": 92
+}

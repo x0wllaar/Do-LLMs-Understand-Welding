@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Porosity on the left side about half an inch in, and porosity all through. That's a defect that would fail it. Lack of fusion in areas, lack of penetration in areas and it seems to be severely contaminated.",
+    "NarrativeAeronautical": "Aviation would never touch it.",
+    "NarrativeFarming": "Farming wouldn't use this one - it is too contaminated, it would crack right away.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "75a8ce07-f3aa-4482-9ef0-4e5e53a739c0",
+    "row": 45
+}

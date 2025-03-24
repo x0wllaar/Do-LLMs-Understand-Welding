@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Beginning weld - improper tacking. Should have a quarter inch tack holding it together, but this one is too small. Looks contaminated, didn't clean the metal.",
+    "NarrativeAeronautical": "Beginning weld - improper tacking. Should have a quarter inch tack holding it together, but this one is too small. Looks contaminated, didn't clean the metal.",
+    "NarrativeFarming": "Beginning weld - improper tacking. Should have a quarter inch tack holding it together, but this one is too small. Looks contaminated, didn't clean the metal.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "da388cb4-a098-4c73-8684-35f1732b560e",
+    "row": 34
+}

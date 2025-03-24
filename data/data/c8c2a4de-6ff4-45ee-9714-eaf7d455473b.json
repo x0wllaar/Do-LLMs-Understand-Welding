@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It looks like there is a crater at the end of it, but it would still pass. Good filler, good penetration, looks like good fusion.",
+    "NarrativeAeronautical": "It looks like there is a crater at the end of it, but it would still pass. Good filler, good penetration, looks like good fusion.",
+    "NarrativeFarming": "It looks like there is a crater at the end of it, but it would still pass. Good filler, good penetration, looks like good fusion.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "c8c2a4de-6ff4-45ee-9714-eaf7d455473b",
+    "row": 25
+}

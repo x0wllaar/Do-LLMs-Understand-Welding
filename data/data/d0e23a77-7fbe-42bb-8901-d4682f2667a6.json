@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper filler, adequate technique, proper weld speed.",
+    "NarrativeAeronautical": "Proper filler, adequate technique, proper weld speed.",
+    "NarrativeFarming": "Proper filler, adequate technique, proper weld speed.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "d0e23a77-7fbe-42bb-8901-d4682f2667a6",
+    "row": 57
+}

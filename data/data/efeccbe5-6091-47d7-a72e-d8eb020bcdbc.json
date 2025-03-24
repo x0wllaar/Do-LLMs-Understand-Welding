@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Porosity! Fisheye on the left side. clusters of porosity throughout the entire weld. Ugly weld.",
+    "NarrativeAeronautical": "Porosity! Fisheye on the left side. clusters of porosity throughout the entire weld. Ugly weld.",
+    "NarrativeFarming": "Porosity! Fisheye on the left side. clusters of porosity throughout the entire weld. Ugly weld.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "efeccbe5-6091-47d7-a72e-d8eb020bcdbc",
+    "row": 32
+}

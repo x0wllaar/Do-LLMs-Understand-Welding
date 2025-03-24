@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like proper angle, proper amount of filler, proper penetration.",
+    "NarrativeAeronautical": "This would pass visual inspection for aeronautical. Looks like proper angle, proper amount of filler, proper penetration.\nBottom bead is nice and straight and looks like proper filler. Height and width of bead are correct.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "0c3c11e5-4bce-4d89-8549-220d45709647",
+    "row": 96
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "This is a good looking weld. Consistent, clean, proper filler.",
+    "NarrativeAeronautical": "This is a good looking weld. Consistent, clean, proper filler. It appears the metal was clean. Proper fusion.",
+    "NarrativeFarming": "Definitely - they would love this. This is a good looking weld. Consistent, clean, proper filler.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "74a2ac87-e0bb-4f1e-b648-e21bcd131f29",
+    "row": 38
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Porosity, excessive weld filler, lack of cleaning, lack of penetration.",
+    "NarrativeAeronautical": "Porosity, excessive weld filler, lack of cleaning, lack of penetration.",
+    "NarrativeFarming": "Porosity, excessive weld filler, lack of cleaning, lack of penetration.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "87382555-6f38-4634-86c0-3cc385198c9a",
+    "row": 1
+}

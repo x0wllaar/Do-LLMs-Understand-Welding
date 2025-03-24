@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Severe porosity. Sever inclusions. Root area is cracking. Not cleaned well, welded way too fast. no back-up gas",
+    "NarrativeAeronautical": "Severe porosity. Sever inclusions. Root area is cracking. Not cleaned well, welded way too fast. no back-up gas",
+    "NarrativeFarming": "Severe porosity. Sever inclusions. Root area is cracking. Not cleaned well, welded way too fast. no back-up gas",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "08665ac8-a27a-4253-9d24-a7b226b9459c",
+    "row": 23
+}

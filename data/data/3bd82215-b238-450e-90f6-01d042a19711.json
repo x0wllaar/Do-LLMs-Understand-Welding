@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper penetration, good fusion. It is getting a little bit hot, so you can see some excesive spatter, but with so many beads that's understandable because it will gain heat as you weld it.",
+    "NarrativeAeronautical": "MIG weld would not be acceptable for aeronautical. There is excessive spatter.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "3bd82215-b238-450e-90f6-01d042a19711",
+    "row": 63
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Possible fisheye on the left side. Possible inclusions on the bottom edge 1/3 from the left edge and one in the middle. ",
+    "NarrativeAeronautical": "Possible fisheye on the left side. Possible inclusions on the bottom edge 1/3 from the left edge and one in the middle. Obvious inclusions wouldn't pass for aviation.",
+    "NarrativeFarming": "Possible fisheye on the left side. Possible inclusions on the bottom edge 1/3 from the left edge and one in the middle. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "56baf7f7-ea8b-4148-849a-35660f30dad9",
+    "row": 70
+}

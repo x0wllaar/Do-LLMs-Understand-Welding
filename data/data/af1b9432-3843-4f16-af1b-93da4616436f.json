@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "No visual defects. Could be a crater at the end.",
+    "NarrativeAeronautical": "Wouldn't weld a bracket.",
+    "NarrativeFarming": "No visual defects. Could be a crater at the end.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "af1b9432-3843-4f16-af1b-93da4616436f",
+    "row": 62
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking bead. It does have a fisheye on the left side.",
+    "NarrativeAeronautical": "Not clean enough. The bead is a little bit too wide. Excessive filler.",
+    "NarrativeFarming": "Good looking bead. It does have a fisheye on the left side.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "f41ab574-f23f-4304-8db3-b081348c2f90",
+    "row": 3
+}

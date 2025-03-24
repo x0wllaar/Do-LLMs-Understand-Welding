@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "This is an ugly weld. It would fail for inadequate penetration, improper fill. It looks like it's got contamination in the top third. They were welding on a contaminated piece of metal and went way too fast.",
+    "NarrativeAeronautical": "It's so bad, it's hard to tell what kind of welding it is",
+    "NarrativeFarming": "Inadequate penetration and contaminated metal. Incomplete fusion - this would crack right away. You would have to grind it out and put in a new weld.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "9056e98c-6688-4dcb-9a6f-af8014a8142d",
+    "row": 48
+}

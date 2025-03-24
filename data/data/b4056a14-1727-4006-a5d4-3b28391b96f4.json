@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Undercut on the edges, underfill.",
+    "NarrativeAeronautical": "Stick welding. Undercut on the edges, underfill.",
+    "NarrativeFarming": "Ok if they're not using it for agricultural equipment. This would be acceptable for a fence or gate.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "b4056a14-1727-4006-a5d4-3b28391b96f4",
+    "row": 2
+}

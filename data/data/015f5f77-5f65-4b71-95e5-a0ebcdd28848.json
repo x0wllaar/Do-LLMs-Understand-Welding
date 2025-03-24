@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Holes, porosity. Looks like inadequate penetration. Stop and start in the middle. Especially for a pipe, not got to work with pressure.",
+    "NarrativeAeronautical": "Holes, porosity. Looks like inadequate penetration. Stop and start in the middle.",
+    "NarrativeFarming": "Holes, porosity. Looks like inadequate penetration. Stop and start in the middle.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "015f5f77-5f65-4b71-95e5-a0ebcdd28848",
+    "row": 1
+}

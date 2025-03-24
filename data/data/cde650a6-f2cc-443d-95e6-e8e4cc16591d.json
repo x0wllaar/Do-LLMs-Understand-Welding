@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inclusion in the middle. Undercut at the top. Enough filler.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "Inclusion in the middle, maybe be ok for farming. Undercut at the top. Enough filler.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "cde650a6-f2cc-443d-95e6-e8e4cc16591d",
+    "row": 31
+}

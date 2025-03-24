@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper penetration good bead technique. Looks like they cleaned it, see wire trails from wire wheel.",
+    "NarrativeAeronautical": "Not clean enough for aeronautical. Looks like there's some spatter, MIG welding. Bead on the left is too thick and too wide.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "024ffbff-a9a9-4ffb-a53b-21a47d75e486",
+    "row": 87
+}

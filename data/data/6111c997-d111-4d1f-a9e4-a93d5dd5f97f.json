@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Crater on the left side. Arc strike up above. Undercut all along top edge. Too hot when they welded it. Too slow.",
+    "NarrativeAeronautical": "Crater on the left side. Arc strike up above. Undercut all along top edge. Too hot when they welded it. Too slow.",
+    "NarrativeFarming": "Depends on the application. Undercut might not be a problem if it's not in a structural area.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "6111c997-d111-4d1f-a9e4-a93d5dd5f97f",
+    "row": 15
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cold weld. Lack of fusion, lack of penetration. Too fast travel speed.",
+    "NarrativeAeronautical": "Cold weld. Lack of fusion, lack of penetration. Too fast travel speed.",
+    "NarrativeFarming": "Cold weld. Lack of fusion, lack of penetration. Too fast travel speed.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "d8a2b2c0-9006-4680-9604-e7de57146797",
+    "row": 61
+}

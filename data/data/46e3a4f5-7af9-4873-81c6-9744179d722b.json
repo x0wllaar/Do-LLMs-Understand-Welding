@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like excessive weld filler and inadequate penetration. On the left side, you can see it didn't penetrate very well. There is a circle of a bead and a bead laying on it where the tack was. Didn't fuse the tack, welded up to it instead of melting into it, which is lack of fusion. Excessive spatter. Looks like it's got some inclusions in the middle where the bumps are. Possible porosity. Looks like there could be some undercut on the top edge.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "Could be accepted for some applications if it was not equipment. Could be part of structure parts of barn or fence.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "46e3a4f5-7af9-4873-81c6-9744179d722b",
+    "row": 4
+}

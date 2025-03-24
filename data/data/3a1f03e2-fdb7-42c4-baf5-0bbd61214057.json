@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "walking the cup, TIG welding steel. Three big beads, two cover passes. Crater isn't deep enough to be considered a hole.",
+    "NarrativeAeronautical": "Don't walk the cup.",
+    "NarrativeFarming": "walking the cup, TIG welding steel. Three big beads, two cover passes. Crater isn't deep enough to be considered a hole.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "3a1f03e2-fdb7-42c4-baf5-0bbd61214057",
+    "row": 72
+}

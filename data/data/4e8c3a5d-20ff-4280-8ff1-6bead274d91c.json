@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "inadequate penetration. Excessive weld spatter due to high heat. Went too fast through. Turned it up hot and went fast instead of making sure it had proper fusion and proper penetration. Dirty, you can see the brown contamination on the sides.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "It would be selective on what the job was -- could be on certain parts, but definitely not on others. Could be acceptable for something like an old fence or putting hinges on a gate.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "4e8c3a5d-20ff-4280-8ff1-6bead274d91c",
+    "row": 28
+}

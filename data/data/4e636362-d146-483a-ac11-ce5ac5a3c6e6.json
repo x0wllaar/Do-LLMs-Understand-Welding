@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking weld. Vertical up MIG. Good clean weld. Proper angle, proper fusion.",
+    "NarrativeAeronautical": "MIG, wouldn't use rusty metal.",
+    "NarrativeFarming": "Good looking weld. Vertical up MIG. Good clean weld. Proper angle proper fusion.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "4e636362-d146-483a-ac11-ce5ac5a3c6e6",
+    "row": 64
+}

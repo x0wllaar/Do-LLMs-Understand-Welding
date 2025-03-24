@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper fusion, lack of visible defects, looks like a proper amount of rod was used, don't see anything really wrong with it, looks good.",
+    "NarrativeAeronautical": "Proper fusion, lack of visible defects, looks like a proper amount of rod was used, don't see anything really wrong with it, looks good.\n",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "0bcf9864-18f5-48d8-b4a1-1447da731304",
+    "row": 103
+}

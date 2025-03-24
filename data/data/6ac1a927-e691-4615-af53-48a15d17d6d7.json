@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Straight weld, good fusion, proper filler, proper temperature.",
+    "NarrativeAeronautical": "MIG/GMAW, metal wasn't cleaned before welding. The brown line at the top is showing millscale.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "6ac1a927-e691-4615-af53-48a15d17d6d7",
+    "row": 73
+}

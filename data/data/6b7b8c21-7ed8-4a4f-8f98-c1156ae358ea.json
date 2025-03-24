@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Pretty welds. Looks like a structural weld.",
+    "NarrativeAeronautical": "Looks like it's starting to warp.",
+    "NarrativeFarming": "Pretty welds. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "6b7b8c21-7ed8-4a4f-8f98-c1156ae358ea",
+    "row": 40
+}

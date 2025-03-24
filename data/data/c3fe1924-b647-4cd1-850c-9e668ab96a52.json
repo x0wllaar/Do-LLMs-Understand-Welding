@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Top two would pass, bottom would fail.\n\nThere is a line showing overlapping and there is some start/stop. Top line and middle line have proper angle and proper temperature.",
+    "NarrativeAeronautical": "MIG, wouldn't be accepted. Start and stop would also make it never pass for aeronautical.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "c3fe1924-b647-4cd1-850c-9e668ab96a52",
+    "row": 85
+}

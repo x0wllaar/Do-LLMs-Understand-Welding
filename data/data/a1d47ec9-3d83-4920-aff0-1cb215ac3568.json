@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks pretty good. Don't see any defects, other than incomplete welds at the end.",
+    "NarrativeAeronautical": "Not cleaned well enough. Looks buffed off but not clean underneath.",
+    "NarrativeFarming": "Looks pretty good. Don't see any defects, other than incomplete welds at the end. Just need to finish the welds at the end.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "a1d47ec9-3d83-4920-aff0-1cb215ac3568",
+    "row": 40
+}

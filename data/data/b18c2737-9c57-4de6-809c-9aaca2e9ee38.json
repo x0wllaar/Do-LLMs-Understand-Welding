@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Lack of penetration, lack of filler, lack of paying attention. Looks like someone just drew a line on a piece of metal. Looks like someone trying to set the temperature up on a welder. Didn't clean metal, got contamination, milscale still in the middle.",
+    "NarrativeAeronautical": "Lack of penetration, lack of filler, lack of paying attention. Looks like someone just drew a line on a piece of metal. Looks like somone trying to set the temperature up on a welder.",
+    "NarrativeFarming": "Lack of penetration, lack of filler, lack of paying attention. Looks like someone just drew a line on a piece of metal. Looks like somone trying to set the temperature up on a welder.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "b18c2737-9c57-4de6-809c-9aaca2e9ee38",
+    "row": 2
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It's got proper penetration, complete bead, correct angle. You can see on the top of the edge of the bead is black, showing that they didn't clean it correctly, so it's probably contaminated but they went hot enough to get a solid bead",
+    "NarrativeAeronautical": "Contaminated because not properly cleaned, fail any kind of x-ray or Non-destructive testing. ",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "6d6e7bab-ac3c-4d63-aa08-2fe1a1cf1574",
+    "row": 100
+}

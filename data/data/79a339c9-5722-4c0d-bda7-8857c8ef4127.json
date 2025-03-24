@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good straight bead. Proper amount of heat and good fusion. Right angle of welding. There's not very much spatter. Looks like proper temperature",
+    "NarrativeAeronautical": "GMAW/MIG, not acceptable for aeronautical and they didn't clean it very good.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "79a339c9-5722-4c0d-bda7-8857c8ef4127",
+    "row": 74
+}

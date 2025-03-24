@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Pretty good beads. Proper fusion, proper fill.  Proper fusion",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Pretty good beads. Proper fusion, proper fill.  Proper fusion. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "6c1b22c9-f5fb-40e9-9507-dd95be448599",
+    "row": 32
+}

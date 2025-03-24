@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It's got a straight bead, looks like it penetrated, it's just not the prettiest thing, but it penetrated so it would be accepetable",
+    "NarrativeAeronautical": "excessive weld on the bead stating off, doesn't look like they cleaned the metal properly, discontinuities. ",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "dd82af09-b82d-4fc4-95a5-52dee4f9dbcf",
+    "row": 105
+}

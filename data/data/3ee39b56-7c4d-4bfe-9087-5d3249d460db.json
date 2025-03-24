@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good bead, but the metal should have been cleaned more before it was welded. There are no obvious defects. Good looking bead. Looks consistent all the way down.",
+    "NarrativeAeronautical": "MIG weld, not acceptable for aeronautical. It is also contaminated.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "3ee39b56-7c4d-4bfe-9087-5d3249d460db",
+    "row": 61
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Porosity, contamination, lack of fusion. Lack of filler. ",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "This isn't even welding yet. Porosity, contamination, lack of fusion. Lack of filler. ",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "96e51769-46bc-40c4-9ea0-c5d78c88129d",
+    "row": 42
+}

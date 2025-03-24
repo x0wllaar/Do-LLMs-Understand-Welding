@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Shows a beginner weld, something they would let you start training with. It looks undercut on the right hand side. It's got some lack of penetration on the very top on the right hand side.",
+    "NarrativeAeronautical": "MIG, and too many defects in the undercuts on the right hand side.",
+    "NarrativeFarming": "While this isn't pretty, it's structurally sound. You could use it for farming.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "72bb98d7-b2f3-4280-91b3-33c35d3f98d5",
+    "row": 54
+}

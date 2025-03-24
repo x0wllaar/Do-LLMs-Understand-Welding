@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It looks like adequate fusion, but not completely perfect. Right side has a little bit of inadequate fusion don't see any undercutting. Looks like proper fill. TIG weld. ",
+    "NarrativeAeronautical": "Inadequate fusion on the right side makes this not acceptable for aeronautical.",
+    "NarrativeFarming": "It looks like adequate fusion, but not completely perfect. Right side has a little bit of inadequate fusion don't see any undercutting. Looks like proper fill. TIG weld. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "1357029f-b426-40c4-9428-6567d09165a4",
+    "row": 53
+}

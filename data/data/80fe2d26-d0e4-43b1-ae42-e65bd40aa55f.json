@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper spacing, correct angle, proper amount of filler, proper temperature.",
+    "NarrativeAeronautical": "MIG weld, so aeronautical wouldn't take it",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "80fe2d26-d0e4-43b1-ae42-e65bd40aa55f",
+    "row": 86
+}

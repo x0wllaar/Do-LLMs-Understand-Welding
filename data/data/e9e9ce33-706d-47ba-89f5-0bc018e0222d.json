@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper weld angle, proper filler, looks like proper temperature. Clean. Decent bead",
+    "NarrativeAeronautical": "Aviation wouldn't take a MIG weld, and you can still see the Mill scale on the weld.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "e9e9ce33-706d-47ba-89f5-0bc018e0222d",
+    "row": 88
+}

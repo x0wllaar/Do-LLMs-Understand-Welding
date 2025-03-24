@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good steady bead, looks like consistent fusion. Consistent filler. Looks like there is a hole up at the top with possible porosity, but that could be ground out and re-welded.",
+    "NarrativeAeronautical": "MIG weld",
+    "NarrativeFarming": "This would work for farming. They did a weave, so its more of a filler type of weld to build up an area and make it stronger so farmer would use this type of weld often. It's a double bead weaving back and forth.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "3b30cf14-3535-4109-a81c-7ab13d37ba80",
+    "row": 41
+}

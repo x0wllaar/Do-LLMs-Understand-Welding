@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Spatter at the end - stick welded. Multiple layers of welds. Painted, so it's hard to tell. Too thick for RV Marine, wouldn't do stick welding",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "Looks pretty good for farming.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "d7af396d-7322-4fcc-8e0a-7b0511449b23",
+    "row": 38
+}

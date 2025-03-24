@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Slag inclusion.Excessive spatter. Improper cleaning is what caused the slag inclusions. Could be mill scale or anything like that causing these. Usually would need to grind it off.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "0942f817-b38b-4afe-91c6-6c20aed85afc",
+    "row": 5
+}

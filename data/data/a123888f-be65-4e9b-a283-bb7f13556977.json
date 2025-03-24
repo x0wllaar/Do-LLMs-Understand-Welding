@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like proper penetration, proper filler, they just need to sand it off. Don't see any defects in it. It does have oxidation on the edges.",
+    "NarrativeAeronautical": "The metal is contaminated with oxidation so they would never use that.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "a123888f-be65-4e9b-a283-bb7f13556977",
+    "row": 65
+}

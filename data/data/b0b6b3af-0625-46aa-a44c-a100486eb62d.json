@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "X-ray - dot is showing an inclusion/contamination. Probably a slag inclusion. Would fail X-ray. RV wouldn't do an X-ray, but this weld is probably acceptable. Likely within tolerance of specs, but depends on the use case.",
+    "NarrativeAeronautical": "X-ray - dot is showing an inclusion/contamination. Probably a slag inclusion. Would fail X-ray.",
+    "NarrativeFarming": "X-ray - dot is showing an inclusion/contamination. Probably a slag inclusion. Would fail X-ray. Farming wouldn't do an X-ray, but this weld is probably acceptable. Likely within tolerance of specs, but depends on the use case.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "b0b6b3af-0625-46aa-a44c-a100486eb62d",
+    "row": 24
+}

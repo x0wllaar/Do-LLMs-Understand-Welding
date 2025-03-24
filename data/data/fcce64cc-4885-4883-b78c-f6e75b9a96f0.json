@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It looks like they used nought filler and they've got a straight bead. Not the prettiest bead in the world, but it looks like it penetrated so it has good penetration. Don't see any undercut, don't see any cracks.",
+    "NarrativeAeronautical": "Not clean - you've got discoloration on the sides and edges where it's burned out. Looks like mill scale residue on the sides.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fcce64cc-4885-4883-b78c-f6e75b9a96f0",
+    "row": 94
+}

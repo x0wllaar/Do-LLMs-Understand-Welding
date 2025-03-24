@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "MIG weld with undercut on the right hand side. It was too hot, that's what caused the undercut. Excessive heat caused the undercut.",
+    "NarrativeAeronautical": "MIG - not relevant for aeronautical",
+    "NarrativeFarming": "The undercut area is the place it would crack. You might be able to put it on some things, but in some farming applications it would fail.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "3608dcee-ffe0-4e34-b64d-854b333a2192",
+    "row": 52
+}

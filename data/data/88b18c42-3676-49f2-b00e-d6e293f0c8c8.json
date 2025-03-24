@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Rollover on the bottom edge. Overlap. Looks like some undercut at the top. Improper weld speed. Improper weld angle also.",
+    "NarrativeAeronautical": "Rollover on the bottom edge. Overlap. Looks like some undercut at the top. Improper weld speed. Improper weld angle also.",
+    "NarrativeFarming": "Rollover on the bottom edge. Overlap. Looks like some undercut at the top. Improper weld speed. Improper weld angle also.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "88b18c42-3676-49f2-b00e-d6e293f0c8c8",
+    "row": 34
+}

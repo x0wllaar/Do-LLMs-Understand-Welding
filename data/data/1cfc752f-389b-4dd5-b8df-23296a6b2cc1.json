@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Overfilled. Didn't clean it very well on the edges. Should have cleaned it better. It looks like the top edge is undercut. Overfilled really bad.",
+    "NarrativeAeronautical": "Looks like it's got some porosity on the left edge, an indication that it wasn't clean. Overfilled. Didn't clean it very well on the edges. Should have cleaned it better. It looks like the top edge is undercut. Overfilled really bad.",
+    "NarrativeFarming": "This weld would be strong enough for a farming application, looks structurally strong despite being overfilled.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "1cfc752f-389b-4dd5-b8df-23296a6b2cc1",
+    "row": 36
+}

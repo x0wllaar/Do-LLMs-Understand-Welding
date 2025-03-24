@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Nice looking weld. No visual defects. Good penetration, good travel speed, good weld angle. Good fusion",
+    "NarrativeAeronautical": "Nice looking weld. No visual defects. Good penetration, good travel speed, good weld angle. Good fusion",
+    "NarrativeFarming": "Nice looking weld. No visual defects. Good penetration, good travel speed, good weld angle. Good fusion",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "16af3ce3-0276-4108-ad5c-2cedb41e18fc",
+    "row": 73
+}

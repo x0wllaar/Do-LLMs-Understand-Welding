@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Mechanical TIG weld. ",
+    "NarrativeAeronautical": "Mechanical TIG weld. ",
+    "NarrativeFarming": "Mechanical TIG weld. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "fd1bceb1-437f-4728-bc73-85a2dc347e4e",
+    "row": 55
+}

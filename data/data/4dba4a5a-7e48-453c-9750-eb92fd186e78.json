@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Porosity all through the weld. Contamination. Severely defective weld.",
+    "NarrativeAeronautical": "Porosity all through the weld. Contamination. Severely defective weld.",
+    "NarrativeFarming": "Porosity all through the weld. Contamination. Severely defective weld.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "4dba4a5a-7e48-453c-9750-eb92fd186e78",
+    "row": 7
+}

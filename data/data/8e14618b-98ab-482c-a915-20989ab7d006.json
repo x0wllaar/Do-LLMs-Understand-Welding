@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate fusion on the bottom. Top looks like it's got a stop and start crater. It has a crater (fish eye) at the end of the weld. There is a lack of fusion on the whole thing.",
+    "NarrativeAeronautical": "Lack of fusion and lack of penetration.",
+    "NarrativeFarming": "If they are doing something with this, it can still be strong despite the discontinuities.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "8e14618b-98ab-482c-a915-20989ab7d006",
+    "row": 27
+}

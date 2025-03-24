@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cluster of porosity in the middle. Various other porosities throughout. Stop and starts. Improper fusion. Improper filler. Contaminated -- not cleaned very well. Looks like they started cleaning, but didn't do it correctly. All kinds of inclusions in it.",
+    "NarrativeAeronautical": "Cluster of porosity in the middle. Various other porosities throughout. Stop and starts. Improper fusion. Improper filler. Contaminated -- not cleaned very well. Looks like they started cleaning, but didn't do it correctly. All kinds of inclusions in it.",
+    "NarrativeFarming": "Cluster of porosity in the middle. Various other porosities throughout. Stop and starts. Improper fusion. Improper filler. Contaminated -- not cleaned very well. Looks like they started cleaning, but didn't do it correctly. All kinds of inclusions in it.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fa6b6270-030c-4d5c-88ff-192d75af98c7",
+    "row": 9
+}

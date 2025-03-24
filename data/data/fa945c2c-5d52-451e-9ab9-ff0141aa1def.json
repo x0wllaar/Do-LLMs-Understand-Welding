@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Overlap on the sides, inadequate penetration. Cold weld. Lack of filler",
+    "NarrativeAeronautical": "Overlap on the sides, inadequate penetration. Cold weld. Lack of filler",
+    "NarrativeFarming": "Overlap on the sides, inadequate penetration. Cold weld. Lack of filler",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fa945c2c-5d52-451e-9ab9-ff0141aa1def",
+    "row": 4
+}

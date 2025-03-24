@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Not properly gapped, not cleaned correctly. It's got porosity on the bead -- three holes on the end of it.",
+    "NarrativeAeronautical": "Not properly gapped, not cleaned correctly. It's got porosity on the bead -- three holes on the end of it.",
+    "NarrativeFarming": "Not properly gapped, not cleaned correctly. It's got porosity on the bead -- three holes on the end of it.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "f4cd873a-bdee-4b25-b110-6136269471d7",
+    "row": 33
+}

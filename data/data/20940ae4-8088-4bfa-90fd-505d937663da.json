@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "It's got a crater on the left side, but they would use it. Looks like proper fusion, adequate filler. Don't see any undercut defects. It could have been a little bit cleaner.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "This would work for farming. It's got a crater on the left side, but they would use it. Looks like proper fusion, adequate filler. Don't see any undercut defects. It could have been a little bit cleaner.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "20940ae4-8088-4bfa-90fd-505d937663da",
+    "row": 31
+}

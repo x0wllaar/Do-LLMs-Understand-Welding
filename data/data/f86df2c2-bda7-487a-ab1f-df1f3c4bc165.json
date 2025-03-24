@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Look a little dirty, but within spec. No porosity or defect.",
+    "NarrativeAeronautical": "Not clean enough for use in aviation.",
+    "NarrativeFarming": "Look a little dirty, but within spec. No porosity or defect.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "f86df2c2-bda7-487a-ab1f-df1f3c4bc165",
+    "row": 20
+}

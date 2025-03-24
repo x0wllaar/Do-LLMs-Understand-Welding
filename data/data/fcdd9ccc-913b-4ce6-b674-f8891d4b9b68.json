@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Overheated MIG weld that is very dirty.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Overheated MIG weld that is very dirty. Contaminated weld is really bad. Can't see well enough to determine if there is any undercut. Looks like there might be some on the right hand side.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fcdd9ccc-913b-4ce6-b674-f8891d4b9b68",
+    "row": 8
+}

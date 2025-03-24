@@ -1,0 +1,62 @@
+{
+    "remotemodels": {
+        "api_url": "http://host.docker.internal:12686/v1/"
+    },
+    
+    //Parameters for the image response generation
+    "zero_shot_responses":{
+        //Number of responses to generate per image
+        "n_responses": 3, 
+        
+        //Contexts in which to test
+        "contexts": {
+            "RV & Marine": ["AcceptableRVMarine", "NarrativeRVMarine"],
+            "Aeronautical": ["AcceptableAeronautical", "NarrativeAeronautical"],
+            "Farming": ["AcceptableFarming", "NarrativeFarming"]
+        },
+
+        //The system prompt to use for response generation (system message)
+        //MUST contain {context}
+        "generation_system_prompt": "You are an assistant whose task is to analyze images of welding joints, and describe characteristics of the weld that might affect the weld acceptability for {context}, as well as their general acceptability in the context of {context}. You'll receive an image of a weld in the next message. When asked, you should respond in plain text (NOT MARKDOWN) or in valid JSON",
+
+        //The prompt to use for CoT generation (user message in addition to image)
+        //MUST contain {context}
+        "cot_generation_prompt": "Given this image, generate at most 5 sentences, describe characteristics of the weld that might affect the weld acceptability in the context of {context}. Generate plain text, do not generate JSON or Markdown.",
+
+        //The prompt to use for binary answer generation (user message)
+        //MUST contain {context}
+        "binary_generation_prompt": "Given the messages and the picture above, is this joint acceptable in the context of {context}? Answer with a JSON object with a single boolean key called \"acceptable\", which should be set true if the joint is acceptable and to false otherwise.",
+        
+        //Format for the string that will be used to generate seeds for reproducibility
+        //MUST contain {guid}, {run} and {context}
+        "generation_seed": "RESPONSE_GENERATION_CONTEXT_{context}_{guid}_RUN_{run}"
+    },
+
+
+    "selfcheckgpt": {
+        //System prompt that is given to the checking model
+        "system_prompt": "Your task is to check if the context provided below supports the sentence provided below.Your response should be a single JSON object containing a single key \"is_supported\", which is a boolean value indicating whether the context supports the sentence (true) or not (false).",
+        
+        //User prompt template that is given to the checking model
+        //MUST contain {context} and {sentence}
+        "user_prompt": "Context: {context}\nSentence: {sentence}\nIs the sentence supported by the context above?",
+
+        //Format for the string that will be used to generate seeds for reproducibility
+        //MUST contain {guid}, {context} and {sentence}
+        "seed": "SELFCHECKGPT_CHECK_{guid}_{context}_{sentence}"
+    },
+
+    "medprompt_responses": {
+        "n_responses": 3, 
+        
+        "generation_system_prompt": "You are an assistant whose task is to analyze images of welding joints, and describe characteristics of the weld that might affect the weld acceptability for {context}, as well as their general acceptability in the context of {context}. You'll receive an image of a weld in the next message. When asked, you should respond in plain text (NOT MARKDOWN) or in valid JSON",
+
+        "medprompt_cot_injection_prompt": "These following images are similar to the image that will be given to you. These images are accompanied with comments for these images given by a domain expert, talking about the acceptability of welds in {context}. You should use these images and comments when analyzing images given to you. Do not generate detailed analyses for them, just take them into account when analyzing the next image",
+
+        "cot_generation_prompt": "Given this image, generate at most 5 sentences, describe characteristics of the weld that might affect the weld acceptability in the context of {context}. Generate plain text, do not generate JSON or Markdown.",
+
+        "binary_generation_prompt": "Given the messages and the picture above, is this joint acceptable in the context of {context}? Answer with a JSON object with a single boolean key called \"acceptable\", which should be set true if the joint is acceptable and to false otherwise.",
+
+        "generation_seed": "MEDPROMPT_GENERATION_CONTEXT_{context}_{guid}_RUN_{run}"
+    }
+}

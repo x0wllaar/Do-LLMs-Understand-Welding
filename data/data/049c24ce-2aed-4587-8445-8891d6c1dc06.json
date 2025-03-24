@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like proper penetration. Proper filler. Don't see any undercut. Stick weld.",
+    "NarrativeAeronautical": "Stick Weld, not acceptable",
+    "NarrativeFarming": "Looks like proper penetration. Proper filler. Don't see any undercut. Stick weld.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "049c24ce-2aed-4587-8445-8891d6c1dc06",
+    "row": 5
+}

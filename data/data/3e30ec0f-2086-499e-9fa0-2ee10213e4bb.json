@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Complete weld, looks like proper technique. Middle isn't the prettiest, but it seems to be complete and free of defects. Angle that they welded at is correct, the amount of rod is correct.",
+    "NarrativeAeronautical": "Butt joint in the back has a lack of penetration down towards the end of it. Visual should be a row of dimes, but this one does not show that.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "3e30ec0f-2086-499e-9fa0-2ee10213e4bb",
+    "row": 97
+}

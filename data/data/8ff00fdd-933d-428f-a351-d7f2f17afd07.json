@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Xray shows two inclusions. Burn through doesn't show up on the x-ray. Porosity or inclusion on the X-ray. Can fill in the burn through -- not enough information to say it doesn't pass.",
+    "NarrativeAeronautical": "MIG weld",
+    "NarrativeFarming": "Fill in the burnthrough.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "8ff00fdd-933d-428f-a351-d7f2f17afd07",
+    "row": 28
+}

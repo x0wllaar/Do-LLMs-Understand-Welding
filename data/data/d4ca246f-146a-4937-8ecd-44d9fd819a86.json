@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Mill marks from the grinder on the side. Undercut on the edge of the weld at the bottom on the left side. Inadequate filler up towards the top, not wide enough, doesn't match the rest creating a weak area.",
+    "NarrativeAeronautical": "Mill marks from the grinder on the side. Undercut on the edge of the weld at the bottom on the left side. Inadequate filler up towards the top, not wide enough, doesn't match the rest creating a weak area.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "d4ca246f-146a-4937-8ecd-44d9fd819a86",
+    "row": 22
+}

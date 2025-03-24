@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "There is a crater at the left side end that would need to be filled in. Proper filler, proper fusion. Consistent weld. Can see width is consistent all the way down.",
+    "NarrativeAeronautical": "Acceptable if crater is filled in before being sent for inspection.",
+    "NarrativeFarming": "There is a crater at the left side end that would need to be filled in. Proper filler, proper fusion. Consistent weld. Can see width is consistent all the way down.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "bb83d1c6-668d-4481-bc3c-fcc189cd4c06",
+    "row": 39
+}

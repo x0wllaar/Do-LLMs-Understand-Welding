@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Lamination problem, signs of delaminating. Looks like right one has a porosity hole in it. Could be arc strikes too, hard to tell. Looks like they used a torch to cut it.",
+    "NarrativeAeronautical": "Lamination problem, signs of delaminating. Looks like right one has a porosity hole in it. Could be arc strikes too, hard to tell. Looks like they used a torch to cut it.",
+    "NarrativeFarming": "Lamination problem, signs of delaminating. Looks like right one has a porosity hole in it. Could be arc strikes too, hard to tell. Looks like they used a torch to cut it.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "26a83ac0-90b1-4379-b0a0-0c62f2e364a5",
+    "row": 36
+}

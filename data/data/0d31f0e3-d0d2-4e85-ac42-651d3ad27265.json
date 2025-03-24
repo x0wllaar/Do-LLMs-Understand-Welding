@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Don't see any defects, good looking bead. Proper filler, proper technique, good spacing on the ripples for the beads.",
+    "NarrativeAeronautical": "Good straight bead, looks consistent, good penetration. Would need to see if there is any burn through, but visually it looks good from the picture.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "0d31f0e3-d0d2-4e85-ac42-651d3ad27265",
+    "row": 64
+}

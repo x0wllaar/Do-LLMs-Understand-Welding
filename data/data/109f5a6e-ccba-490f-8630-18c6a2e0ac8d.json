@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Lack of fusion, incomplete welds, overlapping, inadequate joint penetration. The weld is too skinny and it's not hot enough. You can tell the welder went too fast. Should have slowed down and let the temperature melt the bead into it.",
+    "NarrativeAeronautical": "Lack of fusion, incomplete welds, overlapping, inadequate joint penetration. The weld is too skinny and it's not hot enough. You can tell the welder went too fast. Should have slowed down and let the temperature melt the bead into it.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "109f5a6e-ccba-490f-8630-18c6a2e0ac8d",
+    "row": 80
+}

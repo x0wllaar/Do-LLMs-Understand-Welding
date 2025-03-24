@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Acceptable penetration, acceptable weld angle. Technique is a little amateurish. Would probably pass -- this welder would get hired in but would need to practice some more. \nTop bead left quarter has overlap and lack of penetration. The back bead wouldn't be any good. You can see how cold it is -- the bottom of the weld on the top bead is cold. It's not laying flat, sort of rolled. Didn't penetrate going down all the way compared to middle or bottom bead, whose edges are tucked into the metal.",
+    "NarrativeAeronautical": "Too many discontinuities, overlap on the top bead. The inconsistency of the middle bead. Bottom bead is the best looking one, but it probably still wouldn't pass because it has the stop and start in the middle. Started sliding hand, stopped, repositioned, and started sliding again.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "31592778-8300-4239-8ab6-93e9e5f2696b",
+    "row": 89
+}

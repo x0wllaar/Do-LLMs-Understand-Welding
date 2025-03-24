@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Stick welding. Improper cleaning. Fisheye on the bottom to the right. Overlap/rollover on the top bead. Didn't fuse. Improper travel speed, went too hot too fast.",
+    "NarrativeAeronautical": "Stick welding. Improper cleaning. Fisheye on the bottom to the right. Overlap/rollover on the top bead. Didn't fuse. Improper travel speed, went too hot too fast.",
+    "NarrativeFarming": "Wouldn't use on a tractor, but ok for fences and gates. Stick welding. Improper cleaning. Fisheye on the bottom to the right. Overlap/rollover on the top bead. Didn't fuse. Improper travel speed, went too hot too fast. ",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "25a52fa9-8fde-4b81-9c40-46e918eb1bb3",
+    "row": 69
+}

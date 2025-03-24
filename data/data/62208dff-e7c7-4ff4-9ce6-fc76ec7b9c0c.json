@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "The top part of the weld has a lack of fusion and the bead is not wide enough. It's a straight bead, but they went too fast.",
+    "NarrativeAeronautical": "The top part of the weld has a lack of fusion and the bead is not wide enough. It's a straight bead, but they went too fast. \n",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "62208dff-e7c7-4ff4-9ce6-fc76ec7b9c0c",
+    "row": 78
+}

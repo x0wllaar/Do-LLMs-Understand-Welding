@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good fusion, proper filler. You can see where they wire wheeled. Looks like they cleaned it. No fish eye at the end, can see where they stopped, but it's not a crater",
+    "NarrativeAeronautical": "Looks a little inconsistent on the last third on the left. Looks like there was a stop and start at the end.",
+    "NarrativeFarming": "Good fusion, proper filler. Defect free.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "c704ff85-4e43-48fe-95e4-b2cf9da9ba92",
+    "row": 21
+}

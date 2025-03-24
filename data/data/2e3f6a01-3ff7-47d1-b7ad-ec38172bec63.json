@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "No defects.",
+    "NarrativeAeronautical": "Don't walk the cup in aviation",
+    "NarrativeFarming": "No defects.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "2e3f6a01-3ff7-47d1-b7ad-ec38172bec63",
+    "row": 48
+}

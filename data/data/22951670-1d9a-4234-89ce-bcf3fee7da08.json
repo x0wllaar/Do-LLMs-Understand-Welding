@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper welding angle, proper penetration, proper filler. Good looking bead.",
+    "NarrativeAeronautical": "Good clean weld. Proper welding angle, proper penetration, proper filler. Good looking bead.",
+    "NarrativeFarming": "Proper welding angle, proper penetration, proper filler. Good looking bead.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "22951670-1d9a-4234-89ce-bcf3fee7da08",
+    "row": 17
+}

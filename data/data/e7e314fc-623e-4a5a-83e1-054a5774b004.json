@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Proper penetration, don't see any defects, looks like proper weld angle",
+    "NarrativeAeronautical": "Proper penetration, don't see any defects, looks like proper weld angle, good straight bead, looks like it was done correctly. Don't see anything wrong with it in terms of defects or discontinuities or anything like that. Good looking weld.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": false,
+    "guid": "e7e314fc-623e-4a5a-83e1-054a5774b004",
+    "row": 102
+}

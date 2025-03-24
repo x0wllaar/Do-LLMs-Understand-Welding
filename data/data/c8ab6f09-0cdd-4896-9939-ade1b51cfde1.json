@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "This weld has a lack of fusion, it's cold, not a very good welding angle.",
+    "NarrativeAeronautical": "MIG/GMAW so they won't take it. This weld has a lack of fusion, it's cold, not a very good welding angle.",
+    "NarrativeFarming": "",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "c8ab6f09-0cdd-4896-9939-ade1b51cfde1",
+    "row": 67
+}

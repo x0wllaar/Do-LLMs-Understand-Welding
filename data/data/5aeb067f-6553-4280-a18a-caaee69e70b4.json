@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Could have a lack of fusion and lack of penetration. Hard to tell how much fusion and penetration it has without closer observation.",
+    "NarrativeAeronautical": "Aviation wouldn't do metal this thick.",
+    "NarrativeFarming": "Could have a lack of fusion and lack of penetration. Hard to tell how much fusion and penetration it has without closer observation.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "5aeb067f-6553-4280-a18a-caaee69e70b4",
+    "row": 60
+}

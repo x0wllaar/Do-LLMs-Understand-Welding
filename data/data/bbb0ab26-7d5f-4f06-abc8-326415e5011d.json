@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good horizontal bead. Has a fisheye on the left side that can be corrected. Adequate filler, adequate penetration. Not a bad bead. Could have been cleaner, but still looks like it welded clean.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Good horizontal bead. Has a fisheye on the left side that can be corrected. Adequate filler, adequate penetration. Not a bad bead. Could have been cleaner, but still looks like it welded clean.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "bbb0ab26-7d5f-4f06-abc8-326415e5011d",
+    "row": 12
+}

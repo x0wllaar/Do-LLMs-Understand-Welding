@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "No undercut. No porosity visible. Could be a TIG Weld. not the prettiest weld, but still looks strong.",
+    "NarrativeAeronautical": "No undercut. No porosity visible. Could be a TIG Weld. not the prettiest weld, but still looks strong.",
+    "NarrativeFarming": "No undercut. No porosity visible. Could be a TIG Weld. not the prettiest weld, but still looks strong.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "436ba871-c4bd-4c82-83de-751650d48fa0",
+    "row": 43
+}

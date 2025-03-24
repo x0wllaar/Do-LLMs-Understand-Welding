@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Cold weld, overlapped. Inadequate penetration. Looks like it's undercut down on the right hand side.",
+    "NarrativeAeronautical": "Cold weld, overlapped. Inadequate penetration. Looks like it's undercut down on the right hand side.",
+    "NarrativeFarming": "Cold weld, overlapped. Inadequate penetration. Looks like it's undercut down on the right hand side.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "9c85bb46-eafb-4aca-b4a0-d33fbe5baf2f",
+    "row": 58
+}

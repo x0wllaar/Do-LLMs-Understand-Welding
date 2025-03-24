@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like consistent fusion, adequate filler. Metal was cleaned. ",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Definitely acceptable for farming. Good structural weld.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "65a16178-559c-477f-97d1-9f4318e78f64",
+    "row": 37
+}

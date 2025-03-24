@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Good looking TIG weld. no visual defects. ",
+    "NarrativeAeronautical": "Good looking TIG weld. no visual defects. ",
+    "NarrativeFarming": "Good looking TIG weld. no visual defects. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "ae48d075-7a81-4e70-9d3b-85980ad622ba",
+    "row": 68
+}

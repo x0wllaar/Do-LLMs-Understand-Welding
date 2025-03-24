@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inclusions and porosity at the top. Lack of fusion. Inadequate penetration. Lack of cleaning -- it looks like they did the weld and then tried to clean it up instead of cleaning it before the weld.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "This would be a hazard weld. Inclusions and porosity at the top. Lack of fusion. Inadequate penetration. Lack of cleaning -- it looks like they did the weld and then tried to clean it up instead of cleaning it before the weld.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "fa780003-ae83-48ca-8ed5-41314ab2e0ac",
+    "row": 29
+}

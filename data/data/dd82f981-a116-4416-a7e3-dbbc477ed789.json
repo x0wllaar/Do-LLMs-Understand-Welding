@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Stick weld, bad contamination. Improper fusion at the end. Didn't finish the weld out. Weld bead itself looks like good fusion, good filler, proper angle.",
+    "NarrativeAeronautical": "Wouldn't use stick weld",
+    "NarrativeFarming": "Stick weld, bad contamination. Improper fusion at the end. Didn't finish the weld out. Weld bead itself looks like good fusion, good filler, proper angle.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "dd82f981-a116-4416-a7e3-dbbc477ed789",
+    "row": 51
+}

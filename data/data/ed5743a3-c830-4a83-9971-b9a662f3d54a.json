@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Inadequate fusion indicated by hole on the left side - it's not sunk down in there really good. This is a stovepipe - hole that goes underneath the weld where the two pieces of metal go together. Too low of temperature going at the wrong angle. It looks cosmetically good, but it would crack with tension.",
+    "NarrativeAeronautical": "Inadequate penetration.",
+    "NarrativeFarming": "Could be used with lower standards for farming, if it broke they'd grind it off and put a new on on there.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "ed5743a3-c830-4a83-9971-b9a662f3d54a",
+    "row": 18
+}

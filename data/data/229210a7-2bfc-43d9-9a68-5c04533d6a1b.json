@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Stick welded MSAW. Failed the bend test. Lack of fusion, contamination, inclusions.",
+    "NarrativeAeronautical": "",
+    "NarrativeFarming": "Stick welded MSAW. Failed the bend test. Lack of fusion, contamination, inclusions.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "229210a7-2bfc-43d9-9a68-5c04533d6a1b",
+    "row": 9
+}

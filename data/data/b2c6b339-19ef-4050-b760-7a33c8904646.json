@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Undercut on top. Porosity in the middle. Looks like a lack of filler. Looks like improperly cleaned metal, didn't start with clean metal. Top edge is undercut, lack of fusion. This weld is a mess.",
+    "NarrativeAeronautical": "MIG",
+    "NarrativeFarming": "Really undercut the whole bead, would allow for a crack. Too many defects.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "b2c6b339-19ef-4050-b760-7a33c8904646",
+    "row": 13
+}

@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Clean weld, looks like adequate penetration, proper filler.",
+    "NarrativeAeronautical": "Clean weld, looks like adequate penetration, proper filler. ",
+    "NarrativeFarming": "Clean weld, looks like adequate penetration, proper filler. ",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "6a6b208d-e3c4-48e4-bf4b-4d809aad30dc",
+    "row": 59
+}

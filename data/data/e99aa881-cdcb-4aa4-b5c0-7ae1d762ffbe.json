@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Lack of fusion, but still acceptable. It looks like there is enough filler, don't see a lot of default besides the start/stop in the middle, but this would be within minimum standards to work with",
+    "NarrativeAeronautical": "Start stop, and it has undercut on top, which makes it unacceptable. Horizontal weld. Definitely wouldn't use this in avaiation.",
+    "NarrativeFarming": "Lack of fusion, but still acceptable. It looks like there is enough filler, don't see a lot of default besides the start/stop in the middle, but this would be within minimum standards to work with",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "e99aa881-cdcb-4aa4-b5c0-7ae1d762ffbe",
+    "row": 10
+}

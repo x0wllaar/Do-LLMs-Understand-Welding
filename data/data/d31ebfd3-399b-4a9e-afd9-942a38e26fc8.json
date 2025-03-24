@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Hot weld. Inclusion in the left of center bottom. No undercut. Looks like proper weld angle. Proper filler.",
+    "NarrativeAeronautical": "Inclusion would make it fail.",
+    "NarrativeFarming": "Hot weld. Inclusion in the left of center bottom. No undercut. Looks like proper weld angle. Proper filler.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": true,
+    "guid": "d31ebfd3-399b-4a9e-afd9-942a38e26fc8",
+    "row": 59
+}

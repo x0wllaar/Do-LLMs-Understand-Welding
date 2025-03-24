@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Looks like a consistent weld, proper filler proper fusion. It does have a fisheye on the right hand side at the end, but that can be easily fixed.",
+    "NarrativeAeronautical": "Looks like a consistent weld, proper filler proper fusion. It does have a fisheye on the right hand side at the end, but that can be easily fixed.",
+    "NarrativeFarming": "Farming would love this. Looks like a consistent weld, proper filler proper fusion. It does have a fisheye on the right hand side at the end, but that can be easily fixed.",
+    "AcceptableRVMarine": true,
+    "AcceptableAeronautical": true,
+    "AcceptableFarming": true,
+    "guid": "9a9c5b3c-d70b-495d-abc0-f2319939234d",
+    "row": 20
+}

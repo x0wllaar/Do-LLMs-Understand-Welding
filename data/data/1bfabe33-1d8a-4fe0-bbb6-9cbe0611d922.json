@@ -1,0 +1,10 @@
+{
+    "NarrativeRVMarine": "Bend test broke due to lack of fusion because it has inclusions in it due to lack of cleaning. On the left side, an inclusion edge. Not cleaned well enough.",
+    "NarrativeAeronautical": "Bend test broke due to lack of fusion because it has inclusions in it due to lack of cleaning. On the left side, an inclusion edge.",
+    "NarrativeFarming": "Bend test broke due to lack of fusion because it has inclusions in it due to lack of cleaning. On the left side, an inclusion edge.",
+    "AcceptableRVMarine": false,
+    "AcceptableAeronautical": false,
+    "AcceptableFarming": false,
+    "guid": "1bfabe33-1d8a-4fe0-bbb6-9cbe0611d922",
+    "row": 6
+}
